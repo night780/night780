@@ -1,4 +1,4 @@
-👋 Hi, I’m @night780
+👋 Hi, I’m Jacob
 
 📖 I’m currently earning my BAS.c in Software Development
 
