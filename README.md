@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
+   <img src="https://i.ibb.co/zZxTqhs/profile-modified.png" width="10%" align="right">
   <p align="center">
  <img src="https://media.giphy.com/media/T5FHgffrNpCTOTLFKU/giphy.gif" width="50%">
+  
+      
+  
   <p align="center"> 
     📖 I’m currently earning my BAS.c in Software Development <br> 
     👥 Looking to collaborate on Web and Java applications</p>
