@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<h1>👋 Hi, I’m Jacob</h1>
-  
+  <p align="center">
+ <img src="https://media.giphy.com/media/T5FHgffrNpCTOTLFKU/giphy.gif" width="50%">
+  <p align="center"> 
+    📖 I’m currently earning my BAS.c in Software Development <br> 
+    👥 Looking to collaborate on Web and Java applications</p>
+  </p>
+<br>
 
-📖 I’m currently earning my BAS.c in Software Development
-
-👥 Looking to collaborate on Web and Java applications
 
   
 ![Profile views](https://gpvc.arturio.dev/night780)  <img src="https://img.shields.io/github/followers/night780?label=Follow" style=" float:left, margin-right:10px" />
@@ -33,9 +35,16 @@
 
   ---
   
+<p align="center">
+<img  alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits"/><img  alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
+  </p>
 
-<img align="left" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits"/><img align="right" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
+<br><br>
+<br><br>
 
+  <p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  </p>
 
 </body>
 </html>
