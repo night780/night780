@@ -34,17 +34,8 @@
   ---
   
 
-<img align="left" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits"/>
-<img align="right" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
+<img align="left" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits"/><img align="right" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
 
-
-  
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </body>
 </html>
