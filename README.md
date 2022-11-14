@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=OpenWrt&logoColor=white">  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
   ---
 ### IDE's
-<img src="https://img.shields.io/badge/Visual_Studio_Code-00008B?style=flat&logo=visual%20studio&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0096FF.svg?style=flat&logo=intellij-idea&logoColor=white">  <img src="http://img.shields.io/badge/-PHPStorm-BF40BF?style=flat&logo=phpstorm&logoColor=white">  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0096FF.svg?style=flat&logo=intellij-idea&logoColor=white">  <img src="http://img.shields.io/badge/-PHPStorm-BF40BF?style=flat&logo=phpstorm&logoColor=white">  <img src="https://img.shields.io/badge/Visual_Studio_Code-00008B?style=flat&logo=visual%20studio&logoColor=white">  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white">
   
   ---
 ### Links and Contacts
