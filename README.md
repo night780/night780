@@ -14,7 +14,7 @@
 
 
   
-![Profile views](https://gpvc.arturio.dev/night780)  <img src="https://img.shields.io/github/followers/night780?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/night780)  <a href="https://github.com/night780?tab=followers"><img src="https://img.shields.io/github/followers/night780?label=Follow" style=" float:left, margin-right:10px" /></a>
 
 ---
   ### Tech & Tools Preference
