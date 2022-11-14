@@ -39,8 +39,8 @@
   
   ---
 ### Links and Contacts
-<img alt="Discord" src="https://img.shields.io/discord/1040806719846101103?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=social">   <img alt="Linkedin" src="https://img.shields.io/badge/-Jacob-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-jonas/">
-  <img alt="Email" src="https://img.shields.io/badge/-github@jac0b.anonaddy.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@jac0b.anonaddy.com">
+<a href="https://discord.gg/PAKFDn4hPD"><img alt="Discord" src="https://img.shields.io/discord/1040806719846101103?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=social"></a>   <a href="https://www.linkedin.com/in/jacob-jonas/"><img alt="Linkedin" src="https://img.shields.io/badge/-Jacob-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-jonas/"></a>
+  <a href= "mailto:github@jac0b.anonaddy.com"><img alt="Email" src="https://img.shields.io/badge/-github@jac0b.anonaddy.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@jac0b.anonaddy.com"></a>
   
   ---
   
