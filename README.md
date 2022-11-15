@@ -44,7 +44,8 @@
   ---
   
 <p align="center">
-<img  alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=white&hide_border=true&count_private=true&include_all_commits"/><img  alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
+<img align="center" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=white&hide_border=true&count_private=true&include_all_commits"/>
+<img align="center" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
   </p>
 
 <br><br>
