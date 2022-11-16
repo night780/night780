@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
   <p align="center">
- <img src="https://media.giphy.com/media/T5FHgffrNpCTOTLFKU/giphy.gif" width="50%">
+ <img src="https://media.giphy.com/media/oFRMH0f7v99ZhJA9vc/giphy.gif" width="50%">
   
       
   
@@ -44,8 +44,8 @@
   ---
   
 <p align="center">
-<img align="center" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=white&hide_border=true&count_private=true&include_all_commits&card_width=200"/>
-<img align="center" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack"/>
+<img align="center" alt="Jacobs Github Stats" src="https://github-readme-stats.vercel.app/api?username=night780&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits&card_width=200"/>
+<img align="center" alt="Jacobs favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=night780&hide_border=true&count_private=true&layout=compact&langs_count=10&hide=hack&bg_color=00000000"/>
   </p>
 
 <br><br>
