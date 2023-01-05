@@ -27,9 +27,10 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   ---
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&logoColor=white">  <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&logoColor=white">  <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
   ---
 ### Operating Systems
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=OpenWrt&logoColor=white">  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/ubuntu-dd4814?style=flat&logo=ubuntu&logoColor=black">  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
