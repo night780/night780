@@ -28,6 +28,8 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="http://img.shields.io/badge/-Thyme-aebda8?style=flat&logo=Thyme&logoColor=white">
   ---
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&logoColor=white">  <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
