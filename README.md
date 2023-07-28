@@ -7,8 +7,7 @@
       
   
   <p align="center"> 
-    💻 IT Corporate Developer <br>
-    📖 I’m currently earning my BAS.c in Software Development <br> 
+    💻 Software Engineer <br>
     👥 Looking to collaborate</p>
   </p>
 <br>
