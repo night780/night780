@@ -48,7 +48,7 @@ This call is no longer working
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-0096FF.svg?style=flat&logo=intellij-idea&logoColor=white">  <img src="http://img.shields.io/badge/-PHPStorm-BF40BF?style=flat&logo=phpstorm&logoColor=white">  <img src="https://img.shields.io/badge/Visual_Studio_Code-00008B?style=flat&logo=visual%20studio&logoColor=white">  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white">
   ---
 ### Links and Contacts
-<a href="https://discord.gg/PAKFDn4hPD"><img alt="Discord" src="https://img.shields.io/discord/1040806719846101103?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=social"></a>   <a href="https://www.linkedin.com/in/jacob-jonas/"><img alt="Linkedin" src="https://img.shields.io/badge/-Jacob-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-jonas/"></a>
+<a href="https://discord.gg/PAKFDn4hPD"><img alt="Discord" src="https://img.shields.io/discord/1040806719846101103?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=social"></a>  
   <a href= "mailto:github@jac0b.anonaddy.com"><img alt="Email" src="https://img.shields.io/badge/-github@jac0b.anonaddy.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@jac0b.anonaddy.com"></a>
   <a href="https://github.com/night780?tab=followers"><img src="https://img.shields.io/github/followers/night780?label=Follow" style=" float:left, margin-right:10px" /></a>
   ---
